@@ -1,0 +1,7 @@
+body { background-color: black; color: white; }
+
+a { color: lime; padding-right: 10px; }
+
+label { display: block; margin-top: 15px;}
+
+input[type="submit"] {display: block; margin-top: 20px;}
